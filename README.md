@@ -19,8 +19,11 @@ Voor dat ik begon met het coderen heb ik eerst lang nagedacht over wat voor func
 
 ## Versie 1
 
+https://rodicornelisse.github.io/pokemonV1/
+
 ## Versie 2 - Na Testen
 
+https://rodicornelisse.github.io/pokemonV2/
 ## Conclusie
 
 Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
