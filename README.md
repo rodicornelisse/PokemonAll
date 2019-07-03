@@ -30,9 +30,10 @@ Ik heb het ontwerp van mijn functionaliteit met mijn oma en moeder getest. De te
 2. De testers wisten niet welke button er geselecteerd zou worden als er op een knop werd gedrukt. Mijn oma dacht bijvoorbeeld dat ze op charmender ging drukken. Op het moment dat ze op de muis klikte stond haar cursor helemaal niet op de button. Hieruit bleek dus dat alleen de cursor feedback niet genoeg was.
 3. Om terug te navigeren via het toetsenbord lukte beide testers in eerste instantie niet. Zowel me oma als moeder drukte op backspace i.p.v. de escape toets.
 4. De pagina met details werd door de testers als een lang stuk tekst waargenomen. 
+5. Loading state duurt erg lang. Testers kijken om zich heen.
 
   ### Aanpassingen na testen
-Na het testen heb ik ten eerste de buttons om een pokemon te selecteren groter gemaakt. Verder heb ik een hover aan de buttons toegevoegd, zodat de gebruiker weet welke knop geselecteerd is op het moment dat hij/zij wilt gaan klikken. Verder heb ik het terug navigeren gewijzigd naar de backspace toets i.p.v de escape toets. Uit de testen kwam dat de backspace namelijk logischer is voor het terug navigeren. Ten slotte heb ik op de detail pagina de evoluties een highlight gegeven. Dit heb ik gedaan zodat er niet een lang stuk tekst op de detailpagina staat. Hierdoor oogt het voor de gebruiker makkelijker leesbaar. 
+Na het testen heb ik ten eerste de buttons om een pokemon te selecteren groter gemaakt. Verder heb ik een hover aan de buttons toegevoegd, zodat de gebruiker weet welke knop geselecteerd is op het moment dat hij/zij wilt gaan klikken. Verder heb ik het terug navigeren gewijzigd naar de backspace toets i.p.v de escape toets. Uit de testen kwam dat de backspace namelijk logischer is voor het terug navigeren. Verder heb ik op de detail pagina de evoluties een highlight gegeven. Dit heb ik gedaan zodat er niet een lang stuk tekst op de detailpagina staat. Hierdoor oogt het voor de gebruiker makkelijker leesbaar. Ten slotte heb ik de duur van de loading state aangepast. Eerst duurde de loading state 5 seconden en nu 3 seconden.
 
 [Versie 1 - na testen](https://rodicornelisse.github.io/pokemonV2/)
 
