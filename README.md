@@ -18,23 +18,13 @@ De opdracht had enkele criteria's.
 Voor dat ik begon met het coderen heb ik eerst lang nagedacht over wat voor functionaliteit ik wilde ontwerpen. Uiteindelijk besloot ik om iets met pokomons te doen. In eerste instantie had ik het idee dat je als gebruiker de optie kreeg om een pokemon te selecteren en dat je daarvan dan de evoluties kon bekijken. De evoluties zouden zowel textueel als visueel (met een gifje bijvoorbeeld) zichtbaar zijn. Dit idee liep in de soep en uiteindelijk ben ik gegaan voor de functionaliteit om meer details te bekijken van een pokemon. Als de gebruiker op een naam van de pokemon op de homepage klikt krijgt hij/zij verder details over de pokemon te zien. De verder details bestaan uit een afbeelding, naam, beschrijving en evoluties van de pokemon. Ook leuk om te vermelden is dat de JSON waarvan ik gebruik maak zelf heb gemaakt. 
 
 ## Versie 1
+[Versie 1 - voor testen](https://rodicornelisse.github.io/pokemonV1/)
 
-https://rodicornelisse.github.io/pokemonV1/
 
 ## Versie 2 - Na Testen
+[Versie 1 - voor testen](https://rodicornelisse.github.io/pokemonV2/)
 
-https://rodicornelisse.github.io/pokemonV2/
 ## Conclusie
 
 Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
 
-Het vak bestaat uit 3 opdrachten:
-
-1. [Opdracht 1](opdracht1/)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
-
-
----
-- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
