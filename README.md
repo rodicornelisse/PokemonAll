@@ -1,6 +1,6 @@
-# frontend voor designers - Eindoplevering
+# Frontend voor designers - Eindoplevering
 
-##De opdracht
+## De opdracht
 Voor de eindopdracht van het vak Frontend voor Designers was het de bedoeling om een functionaliteit te ontwerpen waarbij zo goed als alle data van een extrene bron met Javascript wordt ingeladen.
 
 
