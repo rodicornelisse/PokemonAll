@@ -35,5 +35,5 @@ Ik heb het ontwerp van mijn functionaliteit met mijn oma en moeder getest. De te
   ### Aanpassingen na testen
 Na het testen heb ik ten eerste de buttons om een pokemon te selecteren groter gemaakt. Verder heb ik een hover aan de buttons toegevoegd, zodat de gebruiker weet welke knop geselecteerd is op het moment dat hij/zij wilt gaan klikken. Verder heb ik het terug navigeren gewijzigd naar de backspace toets i.p.v de escape toets. Uit de testen kwam dat de backspace namelijk logischer is voor het terug navigeren. Verder heb ik op de detail pagina de evoluties een highlight gegeven. Dit heb ik gedaan zodat er niet een lang stuk tekst op de detailpagina staat. Hierdoor oogt het voor de gebruiker makkelijker leesbaar. Ten slotte heb ik de duur van de loading state aangepast. Eerst duurde de loading state 5 seconden en nu 3 seconden.
 
-[Versie 1 - na testen](https://rodicornelisse.github.io/pokemonV2/)
+[Versie 2 - na testen](https://rodicornelisse.github.io/pokemonV2/)
 
